@@ -1,0 +1,22 @@
+Excutable file is available at https://drive.google.com/file/d/1I5SVDMrpyRhujaIgYbRixGHBayOArAzb/view?usp=sharing
+
+
+Environment:
+
+'cuda 10.0' 
+'cudnn 7.5'
+'window 10'
+ 
+
+0. Download files
+
+1. Put the haze images named 'input*.jpg' or 'input*.png' 
+   on '01.input' folder.
+
+2. Run '_01.main.exe'
+
+3. Results are saved in '02.results' folder.
+
+
+
+The python source code will be uploaded. 
