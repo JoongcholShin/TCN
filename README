@@ -25,7 +25,7 @@ The python source code will be uploaded.
 @ARTICLE{shin2020region,
 author={J. {Shin} and H. {Park} and J. {Paik}},
 journal={IEEE Transactions on Multimedia},
-title={Region-based Dehazing via Dual-Supervised Triple Convolutional Network},
+title={Region-based Dehazing via Dual-Supervised Triple-Convolutional Network},
 year={2021},
 volume={},
 number={},
