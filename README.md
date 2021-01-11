@@ -6,10 +6,6 @@ Python 3.5
 
 Tesnsorflow 1.13.1
 
-numpy
-
-scikit-image
-
 ## Running
 `./main.py`
 
