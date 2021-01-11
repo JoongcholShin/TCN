@@ -10,7 +10,7 @@ scikit-image
 ## Running
 `./main.py`
 
-<img src="/01.input/Buliding.png" width="200" height="200">    <img src="/02.Results/out_Buliding.png" width="200" height="200">   <img src="/02.Results/region_Buliding.png" width="200" height="200">
+<img src="/01.input/Building.png" width="200" height="200">    <img src="/02.Results/out_Building.png" width="200" height="200">   <img src="/02.Results/region_Building.png" width="200" height="200">
 
 <img src="/01.input/River.png" width="200" height="200">    <img src="/02.Results/out_River.png" width="200" height="200">   <img src="/02.Results/region_River.png" width="200" height="200">
 
