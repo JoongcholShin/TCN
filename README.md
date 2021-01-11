@@ -10,15 +10,10 @@ scikit-image
 ## Running
 `./main.py`
 
-<img src="/01.input/Building.png" width="200" height="200">    <img src="/02.Results/out_Building.png" width="200" height="200">   <img src="/02.Results/region_Building.png" width="200" height="200">
-
 |Input|Output|Region|
 |------|---|---|
 |<img src="/01.input/Building.png" width="200" height="200">|<img src="/02.Results/out_Building.png" width="200" height="200">|<img src="/02.Results/region_Building.png" width="200" height="200">|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-
-<img src="/01.input/River.png" width="200" height="200">    <img src="/02.Results/out_River.png" width="200" height="200">   <img src="/02.Results/region_River.png" width="200" height="200">
+|<img src="/01.input/River.png" width="200" height="200">|<img src="/02.Results/out_River.png" width="200" height="200">|<img src="/02.Results/region_River.png" width="200" height="200">|
 
 ## Citation
 Please cite the paper if you find the code useful.
