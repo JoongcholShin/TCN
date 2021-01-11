@@ -2,9 +2,9 @@
 J. Shin, H. Park, and J. Paik, "Region-Based Dehazing via Dual-Supervised Triple-Convolutional Network," **_IEEE Transactions on Multimedia_**, 2021 [[PDF]](https://ieeexplore.ieee.org/document/9316931)
 
 ## Environment
-Python 3.5
-Tesnsorflow 1.13.1
-numpy
+Python 3.5\\
+Tesnsorflow 1.13.1\\
+numpy\\
 scikit-image
 
 ## Running
