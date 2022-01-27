@@ -21,8 +21,8 @@ Please cite the paper if you find the code useful.
   author={J. {Shin} and H. {Park} and J. {Paik}},
   journal={IEEE Transactions on Multimedia}, 
   title={Region-Based Dehazing via Dual-Supervised Triple-Convolutional Network}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-1},
+  year={2022},
+  volume={24},
+  number={1},
+  pages={245-260},
   doi={10.1109/TMM.2021.3050053}}<code>
